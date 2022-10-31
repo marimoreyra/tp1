@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(216, 228, 226);
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+
+
+div.contenedor {
+    margin: auto;
+    width: 70%;
+    border-width: 2px;
+    border-style: double;
+    border-color: black;
+}
+
+div.receta {
+    padding-left: 20px
+}
+
+div.media {
+    text-align: center;
+    background-color: burlywood;
+    padding-top: 25px;
+}
+
+p,
+ol,
+ul {
+    font-size: 20px;
+}
+
+img {
+    width: 560px;
+}
+
+.videoreceta {
+    width: 560px;
+    height: 315px;
+
+}
+
+.mapareferencial {
+    width: 560px;
+    height: 450px;
+
+}
